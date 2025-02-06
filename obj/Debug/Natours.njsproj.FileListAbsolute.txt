@@ -1,0 +1,3 @@
+C:\Users\micsha\source\repos\Natours\Natours\obj\Debug\Natours.njsproj.AssemblyReference.cache
+C:\Users\micsha\source\repos\Natours\Natours\obj\Debug\Natours.njsproj.CoreCompileInputs.cache
+C:\Users\micsha\source\repos\Natours\Natours\bin\Microsoft.NodejsTools.WebRole.dll
